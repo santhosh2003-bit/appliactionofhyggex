@@ -1,0 +1,7 @@
+/* styles.css */
+.text-gradient {
+    @apply bg-gradient-to-b from-indigo-900 to-blue-800;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
